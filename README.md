@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Zapfelrose
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Btech IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+I’m Zapfelrose (Zia)
+I’m currently learning Btech IT at GEC Barton Hill
+How to reach me - ziageorge06@gmail.com / zapfel_rose (insta id)
+Mssicophile and hodophile
+Looking forward to code like a pro
 <!---
-Zapfelrose/Zia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zapfelrose/Zia is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
